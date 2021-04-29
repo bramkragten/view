@@ -4,7 +4,6 @@
   "description": "DOM view component for the CodeMirror code editor",
   "scripts": {
     "test": "cm-runtests",
-    "prepare": "cm-buildhelper src/index.ts"
   },
   "keywords": [
     "editor",
